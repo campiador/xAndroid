@@ -18,6 +18,7 @@ public class QuickActionActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		
 //		This Comment is for test Gissst Commit !!!
+//		second commit
 		
 		setContentView(R.layout.main);
 		
