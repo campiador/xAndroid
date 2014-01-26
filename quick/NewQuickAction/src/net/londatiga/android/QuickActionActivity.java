@@ -17,7 +17,7 @@ public class QuickActionActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-//		This Comment is for test Git Commit !!!
+//		This Comment is for test Gissst Commit !!!
 		
 		setContentView(R.layout.main);
 		
