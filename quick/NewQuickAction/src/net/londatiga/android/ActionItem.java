@@ -12,6 +12,7 @@ import android.graphics.Bitmap;
  * - Kevin Peck <kevinwpeck@gmail.com>
  *
  */
+//commit 3
 public class ActionItem {
 	private Drawable icon;
 	private Bitmap thumb;
